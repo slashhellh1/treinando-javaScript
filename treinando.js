@@ -2,25 +2,25 @@
 
 // AT2 - Colocar todos os consoles que aprendemos
 
-var idade = 38
-console.log(idade)
+// var idade = 38
+// console.log(idade)
 
 
-let nome = 'Robson'
-console.log(nome)
+// let nome = 'Robson'
+// console.log(nome)
 
-const morte = true
-console.log(morte)
+// const morte = true
+// console.log(morte)
 
-let diogo
-console.log(diogo)
+// let diogo
+// console.log(diogo)
 
-let nulo = null
-console.log(nulo)
+// let nulo = null
+// console.log(nulo)
 
-const videoGames = ['nintendo', 'nintendo 64', 'nintendo swith']
-console.log(videoGames)
+// const videoGames = ['nintendo', 'nintendo 64', 'nintendo swith']
+// console.log(videoGames)
 
-var idade = 39
-console.log(idade)
+// var idade = 39
+// console.log(idade)
 
